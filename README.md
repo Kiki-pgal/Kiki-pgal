@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine Learning and Python
 - 🌱 I’m currently learning Machine Learning and Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
 
 <!---
 Kiki-pgal/Kiki-pgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
